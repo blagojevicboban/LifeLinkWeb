@@ -1,0 +1,7 @@
+{
+  "name": "LifeLink Fall Detection & Monitoring",
+  "description": "A professional-grade fall detection ecosystem inspired by the Waveshare ESP32-S3. Monitors real-time kinematics with AI-powered forensic analysis and LifeLink emergency dispatch integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
